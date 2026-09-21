@@ -9,3 +9,4 @@
 - 6-multiple_permissions: añade ejecución al propietario y al grupo, y lectura a otros, en hell
 - 7-everybody: añade permiso de ejecución a propietario, grupo y otros en hell
 - 8-James_Bond: deja hello sin permisos para propietario y grupo, y con todos para otros.
+- 9-John_Doe: establece el modo de hello en -rwxr-x-wx.
