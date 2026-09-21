@@ -13,3 +13,4 @@
 - 10-mirror_permissions: copia el modo de olleh a hello.
 - 11-directories_permissions: agrega ejecución a todos los subdirectorios del directorio actual
 - 12-directory_permissions: crea el directorio my_dir con permisos 751.
+- 13-change_group: cambia el grupo propietario del archivo hello a school.
