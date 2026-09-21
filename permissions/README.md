@@ -5,4 +5,5 @@
 - 2-groups: imprime los grupos del usuario actual.
 - 3-new_owner: cambia el propietario del archivo
 - 4-empty: crea un archivo vacío llamado hello.
-- 5-execute: añade permiso de ejecución al propietario del archivo hello.
+- 5-execute: añade permiso de ejecución al propietario del archivo hel.
+- 6-multiple_permissions: añade ejecución al propietario y al grupo, y lectura a otros, en hello.
