@@ -2,4 +2,5 @@
 
 ## Scripts
 
-- `0-hello_world`: imprime "Hello, World" seguido de una nueva línea.
+- `0-hello_world`: imprime "Hello, World" seguido de una nueva línea
+- `1-confused_smiley`: muestra el emoticono confundido "(Ôo)'
