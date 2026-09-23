@@ -11,3 +11,4 @@
 - `6-third_line`: muestra la tercera línea del archivo `iacta
 - `7-file`: crea un archivo con un nombre lleno de caracteres especiales que contiene "Best School"
 - `8-cwd_state`: escribe el resultado de `ls -la` en el archivo `ls_cwd_content`
+- `9-duplicate_last_line`: duplica la última línea del archivo `iacta`
