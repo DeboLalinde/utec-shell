@@ -18,3 +18,4 @@
 - `14-findthatword`: muestra las líneas de `/etc/passwd` que contienen el patrón oot`
 - `15-countthatword`: muestra cuántas líneas de `/etc/passwd` contienen el patrón `bi
 - `16-whatsnext`: muestra las líneas de `/etc/passwd` que contienen `root` y las 3 líneas siguientes
+- `17-hidethisword`: muestra las líneas de `/etc/passwd` que no contienen el patrón `bin`
