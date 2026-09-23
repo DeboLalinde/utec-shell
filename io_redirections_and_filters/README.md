@@ -13,3 +13,4 @@
 - `8-cwd_state`: escribe el resultado de `ls -la` en el archivo `ls_cwd_content`
 - `9-duplicate_last_line`: duplica la última línea del archivo `iacta
 - `11-directories`: cuenta los directorios y subdirectorios del directorio actual, incluidos los ocultos
+- `12-newest_files`: muestra los 10 archivos más recientes del directorio actual, uno por línea
