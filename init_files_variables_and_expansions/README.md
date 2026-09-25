@@ -9,3 +9,4 @@ Scripts de Bash para practicar alias, variables, expansiones y aritmética de sh
 - `2-path`: agrega `/action` al final de la variable `PATH`, para que sea el último directorio donde se buscan programas. Se carga con `source ./2-path`.
 - `3-paths`: cuenta la cantidad de directorios en `PATH`, ignorando las entradas vacías
 - `4-global_variables`: lista las variables de entorno (globales) usando `printenv`.
+- `5-local_variables`: lista todas las variables locales, las variables de entorno y las funciones usando `set`.
