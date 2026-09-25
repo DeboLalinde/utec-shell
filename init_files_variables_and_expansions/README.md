@@ -6,3 +6,4 @@ Scripts de Bash para practicar alias, variables, expansiones y aritmética de sh
 
 - `0-alias`: crea un alias llamado `ls` con el valor `rm -f *`, que borra todos los archivos del directorio actual. Se carga con `source ./0-alias`.
 - `1-hello_you`: imprime "hello" seguido del nombre del usuario actual, usando la variable `USER`.
+- `2-path`: agrega `/action` al final de la variable `PATH`, para que sea el último directorio donde se buscan programas. Se carga con `source ./2-path`.
