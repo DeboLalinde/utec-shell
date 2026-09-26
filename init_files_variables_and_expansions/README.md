@@ -14,3 +14,4 @@ Scripts de Bash para practicar alias, variables, expansiones y aritmética de sh
 - `7-create_global_variable`: crea una variable global llamada `BEST` con el valor `School`, usando `export BEST=School`.
 - `8-true_knowledge`: imprime el resultado de sumar 128 al valor de la variable `TRUEKNOWLEDGE`.
 - `9-divide_and_rule`: imprime el resultado de dividir `POWER` entre `DIVIDE`, seguido de una nueva línea.
+- `10-love_exponent_breath`: muestra el resultado de la variable global `BREATH` elevada a la potencia de la variable global `LOVE`.
