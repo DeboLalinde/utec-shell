@@ -11,3 +11,4 @@ Scripts de Bash para practicar alias, variables, expansiones y aritmética de sh
 - `4-global_variables`: lista las variables de entorno (globales) usando `printenv`.
 - `5-local_variables`: lista todas las variables locales, las variables de entorno y las funciones usando `set`.
 - `6-create_local_variable`: crea una variable local llamada `BEST` con el valor `School`, usando la forma `NOMBRE=valor` (sin `export`).
+- `7-create_global_variable`: crea una variable global llamada `BEST` con el valor `School`, usando `export BEST=School`.
