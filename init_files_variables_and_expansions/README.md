@@ -12,3 +12,4 @@ Scripts de Bash para practicar alias, variables, expansiones y aritmética de sh
 - `5-local_variables`: lista todas las variables locales, las variables de entorno y las funciones usando `set`.
 - `6-create_local_variable`: crea una variable local llamada `BEST` con el valor `School`, usando la forma `NOMBRE=valor` (sin `export`).
 - `7-create_global_variable`: crea una variable global llamada `BEST` con el valor `School`, usando `export BEST=School`.
+- `8-true_knowledge`: imprime el resultado de sumar 128 al valor de la variable `TRUEKNOWLEDGE`.
