@@ -18,4 +18,5 @@ Scripts de Bash para practicar alias, variables, expansiones y aritmética de sh
 - `11-binary_to_decimal`: convierte el número binario (base 2) guardado en la variable `BINARY` a decimal (base 10).
 - `12-combinations`: imprime todas las combinaciones de dos letras minúsculas (de `aa` a `zz`), una por línea y en orden alfabético, excepto `oo
 - `13-print_float`: imprime el número de la variable `NUM` con dos decimales, seguido de una nueva línea, usando `printf "%.2f\n"`
-- `14-decimal_to_hexadecimal`: convierte el número de la variable `DECIMAL` de base 10 a base 16 (hexadecimal), usando `printf "%x\n"`.
+- `14-decimal_to_hexadecimal`: convierte el número de la variable `DECIMAL` de base 10 a base 16 (hexadecimal), usando `printf "%x\n"`
+- `15-rot13`: codifica y decodifica texto con el cifrado ROT13, reemplazando cada letra por la que está 13 lugares más adelante en el alfabeto.
