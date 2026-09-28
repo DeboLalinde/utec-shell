@@ -20,4 +20,5 @@ Scripts de Bash para practicar alias, variables, expansiones y aritmética de sh
 - `13-print_float`: imprime el número de la variable `NUM` con dos decimales, seguido de una nueva línea, usando `printf "%.2f\n"`
 - `14-decimal_to_hexadecimal`: convierte el número de la variable `DECIMAL` de base 10 a base 16 (hexadecimal), usando `printf "%x\n"`
 - `15-rot13`: codifica y decodifica texto con el cifrado ROT13, reemplazando cada letra por la que está 13 lugares más adelante en el alfabeto
-- `16-odd`: imprime una línea sí y una no de la entrada, empezando por la primera (las líneas impares), usando `paste` y `cut`.
+- `16-odd`: imprime una línea sí y una no de la entrada, empezando por la primera (las líneas impares), usando `paste` y `cut
+- `17-water_and_stir`: suma los números de `WATER` (base water) y `STIR` (base stir.) e imprime el resultado en base bestchol.
