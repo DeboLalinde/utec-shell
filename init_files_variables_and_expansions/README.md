@@ -21,4 +21,5 @@ Scripts de Bash para practicar alias, variables, expansiones y aritmética de sh
 - `14-decimal_to_hexadecimal`: convierte el número de la variable `DECIMAL` de base 10 a base 16 (hexadecimal), usando `printf "%x\n".
 - `15-rot13`: codifica y decodifica texto con el cifrado ROT13, reemplazando cada letra por la que está 13 lugares más adelante en el alfabe.
 - `16-odd`: imprime una línea sí y una no de la entrada, empezando por la primera (las líneas impares), usando `paste` y ``.
-- `17-water_and_stir`: suma los números de `WATER` (base water) y `STIR` (base stir.) e imprime el resultado en base bestchol.
+- `17-water_and_stir`: suma los números de `WATER` (base water) y `STIR` (base stir.) e imprime el resultado en base bestchol
+- Blog (tarea 15): [What happens when you type ls *.c in the shell?](https://medium.com/@lalinde2316/what-happens-when-you-type-ls-c-in-the-shell-037cb391102d)
