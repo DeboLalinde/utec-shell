@@ -7,7 +7,7 @@ Scripts de Bash para practicar alias, variables, expansiones y aritmética de sh
 - `0-alias`: crea un alias llamado `ls` con el valor `rm -f *`, que borra todos los archivos del directorio actual. Se carga con `source ./0-alias`.
 - `1-hello_you`: imprime "hello" seguido del nombre del usuario actual, usando la variable `USER`.
 - `2-path`: agrega `/action` al final de la variable `PATH`, para que sea el último directorio donde se buscan programas. Se carga con `source ./2-path`.
-- `3-paths`: cuenta la cantidad de directorios en `PATH`, ignorando las entradas vacías
+- `3-paths`: cuenta la cantidad de directorios en `PATH`, ignorando las entradas vacía.
 - `4-global_variables`: lista las variables de entorno (globales) usando `printenv`.
 - `5-local_variables`: lista todas las variables locales, las variables de entorno y las funciones usando `set`.
 - `6-create_local_variable`: crea una variable local llamada `BEST` con el valor `School`, usando la forma `NOMBRE=valor` (sin `export`).
@@ -16,9 +16,9 @@ Scripts de Bash para practicar alias, variables, expansiones y aritmética de sh
 - `9-divide_and_rule`: imprime el resultado de dividir `POWER` entre `DIVIDE`, seguido de una nueva línea.
 - `10-love_exponent_breath`: muestra el resultado de la variable global `BREATH` elevada a la potencia de la variable global `LOVE`.
 - `11-binary_to_decimal`: convierte el número binario (base 2) guardado en la variable `BINARY` a decimal (base 10).
-- `12-combinations`: imprime todas las combinaciones de dos letras minúsculas (de `aa` a `zz`), una por línea y en orden alfabético, excepto `oo
-- `13-print_float`: imprime el número de la variable `NUM` con dos decimales, seguido de una nueva línea, usando `printf "%.2f\n"`
-- `14-decimal_to_hexadecimal`: convierte el número de la variable `DECIMAL` de base 10 a base 16 (hexadecimal), usando `printf "%x\n"`
-- `15-rot13`: codifica y decodifica texto con el cifrado ROT13, reemplazando cada letra por la que está 13 lugares más adelante en el alfabeto
-- `16-odd`: imprime una línea sí y una no de la entrada, empezando por la primera (las líneas impares), usando `paste` y `cut
+- `12-combinations`: imprime todas las combinaciones de dos letras minúsculas (de `aa` a `zz`), una por línea y en orden alfabético, excepto `.
+- `13-print_float`: imprime el número de la variable `NUM` con dos decimales, seguido de una nueva línea, usando `printf "%.2f\n.
+- `14-decimal_to_hexadecimal`: convierte el número de la variable `DECIMAL` de base 10 a base 16 (hexadecimal), usando `printf "%x\n".
+- `15-rot13`: codifica y decodifica texto con el cifrado ROT13, reemplazando cada letra por la que está 13 lugares más adelante en el alfabe.
+- `16-odd`: imprime una línea sí y una no de la entrada, empezando por la primera (las líneas impares), usando `paste` y ``.
 - `17-water_and_stir`: suma los números de `WATER` (base water) y `STIR` (base stir.) e imprime el resultado en base bestchol.
